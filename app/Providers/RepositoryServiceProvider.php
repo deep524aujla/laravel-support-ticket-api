@@ -1,5 +1,5 @@
 <?php
-
+namespace App\Providers;
 use App\Contracts\Repositories\AttachmentRepositoryInterface;
 use App\Contracts\Repositories\CommentRepositoryInterface;
 use App\Contracts\Repositories\RoleRepositoryInterface;
